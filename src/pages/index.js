@@ -18,7 +18,7 @@ export default function Home() {
           name="description"
           content=" With Snappy, you can instantly transform those never-ending URLs 
           into concise and snappy links. Simply paste your long URL into our platform,
-          and within seconds, a shortened URL will be generated for you. It's that 
+          and within seconds, a shortened URL will be generated for you. It is that 
           quick and hassle-free!"
         />
       </Head>
@@ -41,7 +41,7 @@ export default function Home() {
                 <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
                 With Snappy, you can instantly transform those never-ending URLs 
           into concise and snappy links. Simply paste your long URL into our platform,
-          and within seconds, a shortened URL will be generated for you. It's that 
+          and within seconds, a shortened URL will be generated for you. It is that 
           quick and hassle-free!
                 </p>
                 <div className='flex items-center self-start mt-2 lg:self-center'>
